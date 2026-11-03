@@ -1,0 +1,6 @@
+{
+  "name": "LexiScan",
+  "description": "Interactive Lexical Analyzer & Tokenization System demonstrating compiler front-end tokenization, DFA simulation, regex patterns, input buffering, and token analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
